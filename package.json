@@ -1,6 +1,6 @@
 {
   "name": "@krakul/node-red-modbus-rtu-slave",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides basic nodes for simulating a modbus RTU slave.",
   "main": "modbus-rtu-slave.js",
   "scripts": {
