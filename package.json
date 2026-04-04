@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "jsmodbus": "git+https://github.com/krakul/node-modbus.git",
-    "serialport": "^9.0.3"
+    "serialport": "^13.0.0"
   },
   "repository": {
     "type": "git",
